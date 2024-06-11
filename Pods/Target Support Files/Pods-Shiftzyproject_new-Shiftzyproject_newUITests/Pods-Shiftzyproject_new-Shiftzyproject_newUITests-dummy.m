@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Shiftzyproject_new_Shiftzyproject_newUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Shiftzyproject_new_Shiftzyproject_newUITests
+@end

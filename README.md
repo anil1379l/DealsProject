@@ -1,5 +1,0 @@
-# DealsProject
-
-Dummy Text
-
-project

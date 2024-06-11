@@ -1,0 +1,6 @@
+framework module Pods_Shiftzyproject_new {
+  umbrella header "Pods-Shiftzyproject_new-umbrella.h"
+
+  export *
+  module * { export * }
+}
